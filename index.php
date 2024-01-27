@@ -76,7 +76,7 @@ include "app/database/database.php";
             <div class="content row">
                 <!--Основной контент-->
                 <div class="main-content col-md-9 col-12">
-                    <h2>Последние публикации</h2>
+                    <h2>Последние публикации находятся тут</h2>
 
                     <?php foreach ($db_poem_posts as $key => $value) : ?>
                         <div class="post_row">
